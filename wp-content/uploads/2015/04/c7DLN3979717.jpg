@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es-ES">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<title>No se encontró la página &#8211; Diario La Nación</title>
+
+
+
+<!--[if lt IE 9]>
+
+<link rel="stylesheet" type="text/css" href="http://www.lanacion.com.ve/wp-content/themes/miyop/css/iecss.css" />
+
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.lanacion.com.ve/feed/" />
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.lanacion.com.ve/feed/rss/" />
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.lanacion.com.ve/feed/atom/" />
+<link rel="pingback" href="http://www.lanacion.com.ve/xmlrpc.php" />
+
+<style type="text/css">
+</style>
+
+
+
+<script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');__gaTracker('create','UA-24848902-1','auto');__gaTracker('set','forceSSL',true);__gaTracker('require','displayfeatures');__gaTracker('send','pageview');</script>
+
+ <script src="http://wwww.lanacion.com.ve/wp-content/themes/miyop/js/modernizr.custom.js"></script>
+<script type="text/javascript">
+    $(function() {
+		if ($.browser.msie && $.browser.version.substr(0,1)<7)
+		{
+		$('li').has('ul').mouseover(function(){
+			$(this).children('ul').css('visibility','visible');
+			}).mouseout(function(){
+			$(this).children('ul').css('visibility','hidden');
+			})
+		}
+
+		/* Mobile */
+		$('#menu-wrap').prepend('<div id="menu-trigger">Menu</div>');		
+		$("#menu-trigger").on("click", function(){
+			$("#menu").slideToggle();
+		});
+
+		// iPad
+		var isiPad = navigator.userAgent.match(/iPad/i) != null;
+		if (isiPad) $('#menu ul').addClass('no-transition');      
+    });          
+</script>
+<link rel="alternate" type="application/rss+xml" title="Diario La Nación &raquo; Feed" href="http://www.lanacion.com.ve/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Diario La Nación &raquo; RSS de los comentarios" href="http://www.lanacion.com.ve/comments/feed/" />
+<link rel='stylesheet' id='mvp-style-css'  href='http://www.lanacion.com.ve/wp-content/themes/miyop/style.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='reset-css'  href='http://www.lanacion.com.ve/wp-content/themes/miyop/css/reset.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='media-queries-css'  href='http://www.lanacion.com.ve/wp-content/themes/miyop/css/media-queries.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='http://fonts.googleapis.com/css?family=Quicksand%3A300%2C400%7CVidaloka%7CPlayfair+Display%3A400%2C700%2C900%7COpen+Sans+Condensed%3A300%2C700%7COswald%3A300%2C400%2C700%7CRaleway%3A200%2C300%2C400%2C500%2C600%2C700%2C800&#038;subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese&#038;ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theiaPostSlider-css'  href='http://www.lanacion.com.ve/wp-content/themes/miyop/admin/theia-post-slider/css/buttons-orange.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-top-posts-widget-css'  href='http://www.lanacion.com.ve/wp-content/plugins/jetpack/modules/widgets/top-posts/style.css?ver=20141013' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.lanacion.com.ve/wp-content/plugins/jetpack/css/jetpack.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='lightboxStyle-css'  href='http://www.lanacion.com.ve/wp-content/plugins/lightbox-plus/css/overtext/colorbox.css?ver=2.7' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.lanacion.com.ve/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.lanacion.com.ve/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.lanacion.com.ve/wp-content/themes/miyop/admin/theia-post-slider/js/balupton-history.js/history.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://www.lanacion.com.ve/wp-content/themes/miyop/admin/theia-post-slider/js/balupton-history.js/history.adapter.jquery.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://www.lanacion.com.ve/wp-content/themes/miyop/admin/theia-post-slider/js/async.min.js?ver=25.11.2012'></script>
+<script type='text/javascript' src='http://www.lanacion.com.ve/wp-content/themes/miyop/admin/theia-post-slider/js/tps-transition-slide.js?ver=1.1.7'></script>
+<script type='text/javascript' src='http://www.lanacion.com.ve/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9.js?ver=1.5.9'></script>
+<script type='text/javascript' src='http://www.lanacion.com.ve/wp-content/plugins/lightbox-plus/css/overtext/helper.js?ver=2.7'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.lanacion.com.ve/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.lanacion.com.ve/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.1" />
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+
+
+<style type='text/css'>
+
+
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700,800,900|Open+Sans+Condensed:100,200,300,400,500,600,700,800,900|Open+Sans:100,200,300,400,500,600,700,800,900|Open+Sans:100,200,300,400,500,600,700,800,900&subset=latin,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek,vietnamese);
+
+
+
+#nav-wrapper {
+
+	background: #ffffff;
+
+	}
+
+
+
+#main-nav .menu li a:hover,
+
+#main-nav .menu li.current-menu-item a,
+
+#search-button:hover,
+
+.home-widget h3.widget-cat,
+
+span.post-tags-header,
+
+.post-tags a:hover,
+
+.tag-cloud a:hover {
+
+	background: #069;
+
+	}
+
+
+
+#top-story-left h3,
+
+#top-story-right h3 {
+
+	border-bottom: 3px solid #069;
+
+	}
+
+
+
+a, a:visited,
+
+ul.top-stories li:hover h2,
+
+ul.top-stories li:hover h2,
+
+#top-story-middle:hover h2,
+
+ul.split-columns li:hover h2,
+
+.home-widget ul.wide-widget li:hover h2,
+
+.home-widget ul.home-list li:hover h2,
+
+h3.story-cat,
+
+h3.story-cat a,
+
+.sidebar-widget ul.home-list li:hover h2,
+
+.sidebar-widget ul.wide-widget li:hover h2,
+
+.sidebar-widget ul.split-columns li:hover h2,
+
+#footer-nav .menu li a:hover,
+
+.footer-widget ul.home-list li:hover h2,
+
+.footer-widget ul.wide-widget li:hover h2,
+
+.footer-widget ul.split-columns li:hover h2,
+
+.prev,
+
+.next {
+
+	color: #069;
+
+	}
+
+
+
+#wallpaper {
+
+	background: url() no-repeat 50% 0;
+
+	}
+
+
+
+.featured-text h2,
+
+.featured-text h2 a {
+
+	font-family: 'Open Sans', serif;
+
+	}
+
+
+
+#main-nav .menu li a,
+
+#main-nav .menu li:hover ul li a {
+
+	font-family: 'Open Sans Condensed', sans-serif;
+
+	}
+
+
+
+#top-story-left h2,
+
+#top-story-right h2,
+
+#middle-text h2,
+
+ul.split-columns li h2,
+
+.home-widget .wide-text h2,
+
+.home-widget .home-list-content h2,
+
+h1.story-title,
+
+.sidebar-widget .wide-text h2,
+
+.sidebar-widget ul.split-columns li h2,
+
+.footer-widget .wide-text h2,
+
+.footer-widget ul.split-columns li h2,
+
+#post-404 h1 {
+
+	font-family: 'Open Sans', serif;
+
+	}
+
+
+
+#top-story-left h3,
+
+#top-story-right h3,
+
+#middle-text h3,
+
+h3.home-widget-header,
+
+h1.archive-header,
+
+h3.story-cat,
+
+h3.story-cat a,
+
+#content-area h1,
+
+#content-area h2,
+
+#content-area h3,
+
+#content-area h4,
+
+#content-area h5,
+
+#content-area h6,
+
+h4.post-header,
+
+h3.sidebar-widget-header,
+
+h3.footer-widget-header {
+
+	font-family: 'Open Sans', sans-serif;
+
+	}
+
+
+
+@media screen and (max-width: 767px) and (min-width: 480px) {
+
+
+
+	.sidebar-widget .home-list-content h2 {
+
+		font-family: 'Open Sans', serif;
+
+		}
+
+
+
+	}
+
+
+
+</style>
+
+	
+
+
+</head>
+
+
+
+<body class="error404 custom-background">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&appId=164964370292536&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+<header>
+	<div class="bashead">        
+         <div class="linia1"></div>
+         <div class="linia2"></div>         
+      	 <div class="logo">
+			<a href="http://www.lanacion.com.ve/">
+				<img src="http://lanacion.com.ve/wp-content/themes/miyop/images/logo-com-ve.png"  alt="logo">
+			</a>
+		</div><!--logo-->
+         
+        
+      <div id="search-top">
+       	<form method="get" id="searchform" action="">
+			<label for="s" class="assistive-text"></label>
+			<input type="text" class="field" name="s" id="s" placeholder="buscar" />
+			<input type="submit" class="submit" name="submit" id="searchsubmit" value="" />
+        </form>        
+   	  </div>   <!--buscador--> 
+      
+          
+    </div><!--bash3ad-->   
+</header>
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div id="body-wrapper">
+		<div id="main-wrapper">
+			<div id="site">
+			
+
+
+<div class="publiFin"> 
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LNW_A1_X1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1743132317645348"
+     data-ad-slot="7610637317"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+
+
+
+
+
+</div><!--publifin a-1x1--> 
+
+
+
+
+  
+
+
+		<div class="demo-1" >
+			<nav id="access" class="menu-container" >
+				<div id="dl-menu" class="dl-menuwrapper">
+					<button class="dl-trigger">Abrir Menu</button>
+						<ul class="dl-menu">
+							<li id="menu-item-3" class=""> <a class="button small inicio" href="http://www.lanacion.com.ve/"><span>Inicio</span></a></li>                        
+							<li id="menu-item-6" class=""><a class="button small infogeneral" href="http://www.lanacion.com.ve/politica/"><span>PolÃ­tica</span></a></li>
+							<li id="menu-item-5" class=""><a class="button small regional" href="http://www.lanacion.com.ve/regional/"><span>Regional</span></a></li>
+							<li id="menu-item-7" class=""><a class="button small nacional" href="http://www.lanacion.com.ve/nacional/"><span>Nacional</span></a></li>
+                        <li id="menu-item-8" class=""> <a class="button small internacional" href="http://www.lanacion.com.ve/internacional/"><span>Internacional</span></a></li>
+                       	 <li id="menu-item-16" class=""> <a class="button small opinion" href="http://www.lanacion.com.ve/opinion/"><span>OpiniÃ³n</span></a></li>
+
+
+
+
+                        <li id="menu-item-4" class=""><a class="button small deportes" href="http://www.lanaciondeportes.com/"><span>Deportes</span></a></li>
+                        <li id="menu-item-9" class=""><a class="button small sucesos" href="http://www.lanacion.com.ve/sucesos/"><span>Sucesos</span></a></li>
+                        <li id="menu-item-37" class=""><a class="button small massec" href="http://www.lanacion.com.ve/mapa/"><span>+ secciones</span></a> 
+                                <ul class="dl-submenu">
+                                <li id="menu-item-51" class=""><a href="http://www.lanacion.com.ve/agenda/">Agenda</a></li>
+                                <li id="menu-item-10" class=""><a href="http://www.lanacion.com.ve/buzon-libre/">BuzÃ³n Libre</a></li>
+                                <li id="menu-item-11" class=""><a href="http://www.lanacion.com.ve/cosas-del-mundo/">Cosas del Mundo</a></li>
+                                <li id="menu-item-12" class=""><a href="http://www.lanacion.com.ve/cultura/">Cultura</a></li>
+                                <li id="menu-item-13" class=""><a href="http://www.lanacion.com.ve/farandula-y-espectaculos/">FarÃ¡ndula y EspectÃ¡culos</a></li>
+                                <li id="menu-item-13" class=""><a href="http://www.lanacion.com.ve/flash/">Flash</a></li>
+								<li id="menu-item-51" class=""><a href="http://www.lanacion.com.ve/infogeneral/">InfoGeneral</a></li>
+
+                                <li id="menu-item-15" class=""><a href="http://www.lanacion.com.ve/noche-de-ronda/">Noche de Ronda</a></li>
+                                <li id="menu-item-33" class=""><a href="http://www.lanacion.com.ve/reportajes-y-especiales/">Reportajes y Especiales</a></li>
+                                <li id="menu-item-34" class=""><a href="http://www.lanacion.com.ve/salud/">Salud</a></li>
+                                <li id="menu-item-36" class=""><a href="http://www.lanacion.com.ve/tecnologia/">TecnologÃ­a</a></li>
+                            </ul>
+                        </li>
+                    </ul>							
+            </div><!-- /dl-menuwrapper -->
+			
+		</nav>
+                 
+	</div>
+
+	<div id="content-wrapper">
+
+		<div id="content-main" class="content-full">
+
+			<div id="home-main" class="home-full">
+
+				<div id="post-area">
+
+					<div id="post-404">
+
+						<h1>Error 404!</h1>
+
+						La página solicitada no existe o se ha movido.
+					</div><!--post-404-->
+
+				</div><!--post-area-->
+
+			</div><!--home-main-->
+
+		</div><!--content-main-->
+
+	</div><!--content-wrapper-->
+
+</div><!--main-wrapper-->
+
+		<div id="footer-wrapper">
+
+			<div id="footer-top">
+				
+
+				
+				<div id="footer-widget-wrapper">
+
+					
+					<div class="footer-widget">
+
+						
+						<div id="logo-footer">
+
+							<img src="http://lanacion.com.ve/wp-content/themes/miyop/images/logo-com-ve.png"  alt="logo">
+
+						</div><!--logo-footer-->
+
+						
+						Lanacion.com.ve es un producto de Editorial Torbes C.A
+						<div id="footer-social">
+
+							<ul>
+
+								
+								<li class="fb-item">
+
+									<a href="http://www.facebook.com/lanaciondiario" alt="Facebook" class="fb-but2" target="_blank"></a>
+
+								</li>
+
+								
+								
+								<li class="twitter-item">
+
+									<a href="http://www.twitter.com/lanacionweb" alt="Twitter" class="twitter-but2" target="_blank"></a>
+
+								</li>
+
+								
+												
+
+								
+
+								
+							
+								
+								<li><a href="http://www.lanacion.com.ve/feed/rss/" alt="RSS Feed" class="rss-but2"></a></li>
+
+								
+							</ul>
+
+						</div><!--footer-social-->
+
+						<div id="copyright">
+
+							<p>Copyright © 1968 Editorial Torbes C.A</p>
+
+						</div><!--copyright-->
+
+					</div><!--footer-widget-->
+
+					
+					<div class="footer-widget"><h3 class="footer-widget-header">Pico y Placa en Ureña y  San Antonio</h3>			<div class="textwidget"><img src="http://www.lanacion.com.ve/fotoedicion//2013/11/picoyplca.jpg" w alt="pico y placa">
+</br>
+<b>(lunes- miércoles- viernes) </b></br>
+No podrán circular las placas terminadas en 0-1-2-3-4 </br>
+<b>(martes - jueves- sábado)</b></br>
+las terminadas en 5-6-7-8-9 </br>
+<b>(domingo) </b> </br>
+No hay restricciones
+ 
+</br>
+La medida del pico y placa aplica las 24 horas </br>
+</br>
+
+
+
+</div>
+		</div><div class="footer-widget">			<div class="textwidget"><div class="foot">
+					<nav id="services" role="navigation">
+						<div class="menu-nume-container">
+							<ul id="menu-nume" class="menu">
+								<li id="menu-item-3" class=""> <a class="button small inicio" href="http://www.lanacion.com.ve/mapa/"><span>Mapa del sitio</span></a></li>
+								<li id="menu-item-7" class=""><a class="button small nacional" href="http://www.lanacion.com.ve/clasificados/index.php"><span>Clasificados</span></a></li>
+								<li id="menu-item-8" class=""> <a class="button small internacional" href="http://www.lanacion.com.ve/obituarios"><span>Obituarios</span></a></li>
+								<li id="menu-item-4" class=""><a class="button small deportes" href="http://www.lanacion.com.ve/contacto"><span>Contacto</span></a></li>
+            
+							</ul><!--/menu-nume-->
+						</div><!--/menu-nume-container-->	
+					</nav>
+				</div><!--foot--></div>
+		</div>
+ 					
+					
+				</div><!--footer-widget-wrapper-->
+
+			</div><!--footer-top-->
+
+		</div><!--footer-wrapper-->
+
+	</div><!--body-wrapper-->
+
+</div><!--site-->
+
+
+<script type='text/javascript' src='http://lanacion.com.ve/wp-content/themes/miyop/js/scripts.js?ver=4.1'></script>
+<script type='text/javascript' src='http://lanacion.com.ve/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://lanacion.com.ve/wp-content/themes/miyop/js/jquery.lazyload.js?ver=4.1'></script>
+<script type='text/javascript' src='http://lanacion.com.ve/wp-content/themes/miyop/js/respond.min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://lanacion.com.ve/wp-content/themes/miyop/js/retina.js?ver=4.1'></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="http://lanacion.com.ve/wp-content/themes/miyop/js/jquery.dlmenu.js"></script>
+<script type='text/javascript' src='http://lanacion.com.ve/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=3.4.1'></script>
+<script>$(function(){$('#dl-menu').dlmenu();});</script>
+
+</body></html><script type='text/javascript' src='http://stats.wp.com/e-201514.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.4.1',blog:'66990373',post:'0',tz:'-4.5'} ]);
+	_stq.push([ 'clickTrackerInit', '66990373', '0' ]);
+</script>
